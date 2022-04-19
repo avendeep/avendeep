@@ -4,7 +4,7 @@ and seeking to obtain specialization in Blockchain & Data Science.
 Javascript Stack:(MERN)
 Front-end: ReactJs/Native(Including Redux)
 Back-end: Nodejs(express framework)
-API: REST/GraphQL
+API: REST
 Database: MongoDB & MySQL
 StyleSheet: Vanilla CSS3/SaSS (Framework: Tailwind/Twitter BootStrap) 
 
